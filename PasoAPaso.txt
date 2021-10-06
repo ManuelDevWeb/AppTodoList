@@ -89,3 +89,5 @@
 39. Agregar los scripts predeploy y deploy en el package.json
 
 40. Finalmente ejecutar: npm run deploy
+
+51. Guardar cambios en el repo, ir al repo, settings, page y listo!
